@@ -1,0 +1,5 @@
+<root>
+    <item name='io.swagger.annotations.Contact'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
